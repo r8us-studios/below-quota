@@ -1,8 +1,3 @@
----
-title: Below Quota — Privacy Policy
-permalink: /privacy/
----
-
 # Below Quota — Privacy Policy
 
 **Effective date:** November 1, 2026

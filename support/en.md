@@ -25,5 +25,5 @@ Only on your device. Deleting the Game deletes your progress. We keep no copy of
 
 ## Privacy and credits
 
-- [Privacy Policy](privacy/en.md)
+- [Privacy Policy](../privacy/en.md)
 - The music, models and fonts used in the Game are listed in Settings → Credits.

@@ -2,7 +2,7 @@
 
 **Effective date:** November 1, 2026
 
-This Privacy Policy explains how the mobile game **Below Quota** (the "Game") handles information. The Game is developed and published by [NAME] ("we", "us").
+This Privacy Policy explains how the mobile game **Below Quota** (the "Game") handles information. The Game is developed and published by Yevhenii Krasovskyi ("we", "us").
 
 ## Summary
 
